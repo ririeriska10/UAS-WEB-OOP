@@ -1,0 +1,106 @@
+.container{
+    margin-top: 80ox;
+}
+
+body{
+    background-color: #95A5A6;
+}
+
+.kepalateks{
+    color: black;
+    text-align: center;
+    font-size: 18pt;
+    font-family: Century;
+}
+
+.bingkai{
+    margin-left: 525px;
+    border: 5px solid grey;
+    width: 450px;
+    height: 250px;
+    background-color: rgba(255,255,255,0.3);
+    text-align: center;
+}
+
+.bingkain2{
+    margin-left: 525px;
+    border: 5px solid grey;
+    width: 450px;
+    height: 250px;
+    background-color: rgba(255,255,255,0.3);
+    text-align: center;
+}
+
+.departemen{
+    width: 250px;
+    height: 30px;
+    border: transparent;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    box-shadow: transparent;
+    border-radius: 10px;
+}
+
+.namadept{
+    width: 250px;
+    height: 30px;
+    border: transparent;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    box-shadow: transparent;
+    border-radius: 10px;
+}
+
+.submit{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.idpegawai{
+    width: 250px;
+    height: 30px;
+    border: transparent;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    box-shadow: transparent;
+    border-radius: 10px;
+}
+
+.nama{
+    width: 250px;
+    height: 30px;
+    border: transparent;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    box-shadow: transparent;
+    border-radius: 10px;
+}
+
+.alamat{
+    width: 250px;
+    height: 30px;
+    border: transparent;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    box-shadow: transparent;
+    border-radius: 10px;
+}
+
+.iddepartemen{
+    width: 250px;
+    height: 30px;
+    border: transparent;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    box-shadow: transparent;
+    border-radius: 10px;
+}
